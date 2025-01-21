@@ -11,7 +11,7 @@ export const personalData = {
   facebook: "https://www.facebook.com/",
   linkedIn: "https://www.linkedin.com",
   twitter: "https://twitter.com/",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
+  stackOverflow: "https://stackoverflow.com/",
   leetcode: "https://leetcode.com/said3812/",
   devUsername: "azizbeknoder",
   resume: "https://t.me/jurabayevamuslimaxon",
